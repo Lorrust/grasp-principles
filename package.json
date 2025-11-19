@@ -1,0 +1,13 @@
+{
+    "name": "grasp-principles",
+    "version": "1.0.0",
+    "description": "General Responsibility Assignment Software Patterns Examples",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"No tests defined\""
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
